@@ -1,4 +1,4 @@
-package Level_1;
+package ProgrammingElements.Level_1;
 import java.util.Scanner;
 public class CalculateAverage {
     public static void main(String[] args) {

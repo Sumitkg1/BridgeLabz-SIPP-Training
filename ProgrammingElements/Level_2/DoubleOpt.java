@@ -1,4 +1,4 @@
-package Day_1.Level_2;
+package ProgrammingElements.Level_2;
 
 import java.util.Scanner;
 
