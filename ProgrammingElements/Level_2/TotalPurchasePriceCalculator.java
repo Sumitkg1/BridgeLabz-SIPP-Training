@@ -1,4 +1,4 @@
-package BestProgrammingPractice.Level2PracticePrograms;
+package ProgrammingElements.Level_2;
 
 import java.util.Scanner;
 

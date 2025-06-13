@@ -1,4 +1,4 @@
-package Day_1.Level_1;
+package ProgrammingElements.Level_1;
 public class FindDiscount {
     public static void main(String[] args) {
         int fee = 125000;
