@@ -4,6 +4,11 @@ public class BMICalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
+
+
+        
+
         System.out.print("Enter number of persons: ");
         int n = scanner.nextInt();
 
