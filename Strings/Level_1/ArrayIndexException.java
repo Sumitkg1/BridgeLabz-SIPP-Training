@@ -13,7 +13,7 @@ public class ArrayIndexException{
         
         handleArrayIndexException(names, index);
 
-        sc.close();
+        sc.close();// stop scanner //
     }
 
     public static void generateArrayIndexException(String[] arr, int index) {
