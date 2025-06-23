@@ -1,7 +1,5 @@
 package Strings.Level_1;
 
-
-
 import java.util.Scanner;
 
 
