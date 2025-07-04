@@ -1,4 +1,4 @@
-abstract class Vehicle {
+ abstract class Vehicle {
     private String vehicleId, driverName;
     private double ratePerKm;
 
