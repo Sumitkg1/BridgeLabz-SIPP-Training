@@ -8,7 +8,7 @@ class Course {
         this.courseName = courseName;
     }
 
-    public void enrollStudent(Student s) {
+    public void enrollStudent(Student s) { 
         enrolledStudents.add(s);
     }
 
