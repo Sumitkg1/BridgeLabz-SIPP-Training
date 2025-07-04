@@ -6,7 +6,7 @@ class Employee {
     public Employee(String name) {
         this.name = name;
     }
-}
+} 
 
 class Department {
     String name;
