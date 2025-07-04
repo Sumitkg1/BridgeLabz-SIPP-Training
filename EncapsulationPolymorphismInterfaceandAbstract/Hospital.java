@@ -6,7 +6,7 @@ abstract class Patient {
         this.patientId = id;
         this.Patientname = Patientname;
         this.age = age;
-    }
+    }  
 
     public abstract double calculateBill();
 
