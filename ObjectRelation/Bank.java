@@ -4,7 +4,7 @@ class Customer {
 
     public Customer(String name) {
         this.name = name;
-        this.balance = 0.0;
+        this.balance = 0.0; 
     }
 
     public void viewBalance() {
