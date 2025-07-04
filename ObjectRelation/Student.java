@@ -5,7 +5,7 @@ class Course {
     ArrayList<Student> enrolledStudents = new ArrayList<>();
 
     public Course(String courseName) {
-        this.courseName = courseName;
+        this.courseName = courseName; 
     }
 
     public void enrollStudent(Student s) { 
