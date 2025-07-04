@@ -6,7 +6,7 @@ abstract class FoodItem {
     public FoodItem(String Foodname, double price, int qty) {
         this.itemFoodname = Foodname;
         this.price = price;
-        this.quantity = qty;
+        this.quantity = qty ;
     }
 
     public abstract double calculateTotalPrice();
