@@ -7,7 +7,7 @@ abstract class Employee {
         this.employeeId = employeeId;
         this.Employeename = Employeename;
         this.baseSalary = baseSalary;
-    }
+    }  
 
     public abstract double calculateSalary();
 
