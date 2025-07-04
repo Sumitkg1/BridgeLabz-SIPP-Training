@@ -5,7 +5,7 @@ class Faculty {
 
     public Faculty(String name) {
         this.name = name;
-    }
+    } 
 }
 
 class Department {
