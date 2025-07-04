@@ -1,10 +1,10 @@
 abstract class FoodItem {
-    private String itemName;
+    private String itemFoodname;
     private double price;
     private int quantity;
 
-    public FoodItem(String name, double price, int qty) {
-        this.itemName = name;
+    public FoodItem(String Foodname, double price, int qty) {
+        this.itemFoodname = Foodname;
         this.price = price;
         this.quantity = qty;
     }
@@ -12,7 +12,7 @@ abstract class FoodItem {
     public abstract double calculateTotalPrice();
 
     public void getItemDetails() {
-        System.out.println(itemName + " - Qty: " + quantity);
+        System.out.println(itemFoodname + " - Qty: " + quantity);
     }
 
     public double getPrice() {
@@ -30,8 +30,8 @@ interface Discountable {
 }
 
 class NonVegItem extends FoodItem implements Discountable {
-    public NonVegItem(String name, double price, int qty) {
-        super(name, price, qty);
+    public NonVegItem(String Foodname, double price, int qty) {
+        super(Foodname, price, qty);
     }
 
     public double calculateTotalPrice() {
