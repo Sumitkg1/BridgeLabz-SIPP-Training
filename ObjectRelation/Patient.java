@@ -8,7 +8,7 @@ class Patient {
     }
 }
 
-class Doctor {
+class Doctor { 
     String name;
 
     public Doctor(String name) {
