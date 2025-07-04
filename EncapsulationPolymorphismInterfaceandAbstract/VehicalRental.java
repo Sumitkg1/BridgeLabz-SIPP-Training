@@ -2,7 +2,7 @@ abstract class Vehicle {
     private String vehicleNumber, type;
     private double rentalRate;
 
-    public Vehicle(String num, String type, double rate) {
+    public Vehicle(String num, String type, double rate) { 
         this.vehicleNumber = num;
         this.type = type;
         this.rentalRate = rate;
