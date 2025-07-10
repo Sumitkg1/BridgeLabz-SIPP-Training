@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class RoundRobin {
     // Node class to represent a process
     static class Node {
-        int processId;
+        int processId; 
         int burstTime;
         int remainingTime; // To keep track of remaining execution time
         int priority;
