@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class InventoryManagement {
     // Node class to represent an inventory item
     static class Node {
-        String itemName;
+        String itemName; 
         String itemId;
         int quantity;
         double price;
