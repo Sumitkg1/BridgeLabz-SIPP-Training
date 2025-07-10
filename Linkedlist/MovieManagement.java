@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MovieManagement {
-    // Node class to represent a movie record
+    // Node class to represent a movie record  
     static class Node {
         String title;
         String director;
