@@ -7,7 +7,7 @@ public class SocialMediaFriend {
         String name;
         int age;
         ArrayList<Integer> friendIds;
-        UserNode next;
+        UserNode next;c
 
         public UserNode(int userId, String name, int age) {
             this.userId = userId;
