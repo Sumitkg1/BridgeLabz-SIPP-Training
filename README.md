@@ -127,6 +127,13 @@ Core-Java Branch  (https://github.com/Sumitkg1/BridgeLabz-SIPP-Training/tree/Cor
 - MaxAndMinInArray.java
 - MovieSystemCreate.java
 
+### Dsa Branch (https://github.com/Sumitkg1/BridgeLabz-SIPP-Training/tree/Dsa)
+- Big O Notation
+- LinkedList
+- HashMapQueueStack
+- Sorting
+- Linear & Binary Search
+
 ---
 
 
@@ -163,6 +170,7 @@ BridgeLabz-SIPP-Training/
 │   ├── Linkedlist
 │   └── Sorting
 |   └── StackQueueHashMap
+    └── BigONotation
 ```
 
 
