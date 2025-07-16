@@ -168,6 +168,6 @@ BridgeLabz-SIPP-Training/
 
 
 
-### 👩‍💻 Prepared By:
+### Prepared By:
 *[Sumit Kumar]*  
  Under Guidance of *Kajal Wankhede*  
